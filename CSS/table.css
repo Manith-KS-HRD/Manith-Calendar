@@ -1,0 +1,65 @@
+table{
+    
+}
+/* th, td, tr{
+    text-align: left;
+    margin-top: 0;
+} */
+
+table, th, td, tr{
+    border: 2px solid green;
+    border-collapse: collapse;
+}
+td{
+    width: 150px;
+    height: 100px;
+    vertical-align: top;
+    text-align: left;
+   
+}
+table{
+    margin:0 auto;
+}
+img{
+    width: 150px;
+    height: 100px;
+
+}
+.rnc5{
+    background-color: cornflowerblue
+}
+.tds{
+    background-color: red;
+
+}
+.tr{
+    height: 35px;
+    background-color: greenyellow;
+   
+}
+
+#img01{
+    background-image: url(/images/khnewyear01.png);
+}
+.td14{
+    color: red;
+}
+
+#img02{
+    background-image: url(/images/khnewyear02.png);
+}
+#img03{
+    background-image: url(/images/khnewyear03.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.sun29{
+    color: red;
+    
+
+}
+#bgsun29{
+    background-color: salmon;
+    border: 1px solid red;
+}
